@@ -1,5 +1,7 @@
 # pieces
 
+DEMO: https://srthk-shrm-bittorrent-client-streamlit-app-gknsuo.streamlit.app/
+
 An experimental BitTorrent client implemented in Python 3 using asyncio.
 
 The client is not a practical BitTorrent client, it lacks too many
